@@ -1,0 +1,17 @@
+{
+  "name": "sqlToJson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wendly Saintil",
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "0.0.2",
+    "request": "^2.57.0",
+    "sqlite-to-json": "^0.1.2",
+    "sqlite3": "^3.0.8"
+  }
+}
